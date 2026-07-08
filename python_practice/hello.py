@@ -1,0 +1,6 @@
+print("Hello World!")
+print("Industrial Engineering")
+print("Supply Chain")
+print("AI Project")
+name = input("Enter your name: ")
+print("Hello", name)
