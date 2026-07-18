@@ -1,0 +1,25 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Work Order - WO-520
+Product: Smart Switches (VOL-SW-06) | Line: Assembly Line 1 | Month: May-2026
+Order Details
+Field
+Value
+Planned Quantity
+154 Units
+Actual Quantity
+155 Units
+Variance %
+0.6%
+Status
+Completed
+Material Requirements
+Component
+Qty per Unit
+Total Qty Required
+Relay Switch
+1 Pc
+154 Pc
+Control PCB
+1 Pc
+154 Pc

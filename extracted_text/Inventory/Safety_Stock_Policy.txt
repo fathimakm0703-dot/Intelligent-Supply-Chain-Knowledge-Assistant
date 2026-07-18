@@ -1,0 +1,43 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Safety Stock Policy
+Document No: POL-INV-02 | Effective Date: 01-Jul-2025
+This policy defines minimum safety stock and reorder levels to buffer against demand variability and supplier
+lead-time variability for all finished-goods SKUs.
+Reorder Levels by Product
+Product ID
+Product Name
+Reorder Level (units)
+VOL-LED-01
+LED Bulbs (9W)
+760
+VOL-LED-02
+LED Tube Lights (20W)
+320
+VOL-CHG-03
+Mobile Chargers
+580
+VOL-CHG-04
+USB Fast Chargers
+380
+VOL-PB-05
+Power Banks
+220
+VOL-SW-06
+Smart Switches
+140
+VOL-PLG-07
+Wi-Fi Smart Plugs
+116
+VOL-SOL-08
+Solar LED Street Lights
+16
+VOL-IOT-09
+IoT Sensor Modules
+58
+VOL-UPS-10
+Mini UPS for Wi-Fi Routers
+84
+Review Cadence
+Reorder levels are recalculated quarterly using trailing 3-month sales history from the Historical Sales Data and
+updated lead times from the Supplier Master.

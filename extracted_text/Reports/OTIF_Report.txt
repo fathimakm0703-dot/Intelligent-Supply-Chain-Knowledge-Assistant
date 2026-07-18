@@ -1,0 +1,33 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+OTIF (On-Time-In-Full) Report
+Reporting Period: FY Jul-2025 to Jun-2026
+Month
+On-Time Delivery (OTIF) %
+Jul-2025
+94.5
+Aug-2025
+90.5
+Sep-2025
+96.0
+Oct-2025
+96.4
+Nov-2025
+90.9
+Dec-2025
+93.7
+Jan-2026
+94.0
+Feb-2026
+92.2
+Mar-2026
+91.6
+Apr-2026
+91.1
+May-2026
+91.6
+Jun-2026
+92.6
+Target
+Company target OTIF is 93%. Performance has trended near or above target through most of the reporting
+period, driven by consistent dispatch scheduling per the Logistics SOP.

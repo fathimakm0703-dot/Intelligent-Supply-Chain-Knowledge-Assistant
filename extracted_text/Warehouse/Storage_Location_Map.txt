@@ -1,0 +1,20 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Warehouse Storage Location Map
+Total Bins: 140 | Layout Reference: Rev 1, 01-Jul-2025
+As a small and medium enterprise (SME) operating a single warehouse, VOLTORA's Edappally facility is
+organized into 3 compact aisles (A-C), each with 3 racks and 4 levels. Bin locations follow the format
+Aisle-Rack-Level-Bin (e.g., A-02-03-05).
+Zone Layout
+Aisle
+Zone
+Primary Product Categories
+A
+Pick Face - Fast Movers
+LED Bulbs, Mobile Chargers, Smart Switches
+B
+Bulk Storage - Small Electronics
+LED Tube Lights, USB Fast Chargers, Power Banks, IoT Sensor Modules
+C
+Bulk Storage - Large Units / Dispatch
+Mini UPS, Wi-Fi Smart Plugs, Solar LED Street Lights

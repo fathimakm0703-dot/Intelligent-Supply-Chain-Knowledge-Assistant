@@ -1,0 +1,24 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Capacity Planning Report - Q1 FY 2026-27
+Prepared by: Anoop K. Nair, Production Supervisor
+Work Center
+Available Capacity (hrs/month)
+Planned Load (hrs/month)
+Utilization %
+Assembly Station
+320
+265
+83%
+Test Station
+320
+290
+91%
+QC Station
+320
+175
+55%
+Observation
+With only 2 assembly technicians on the single Assembly Line, Test Station utilization is nearing capacity at
+91%. Given VOLTORA's limited budget, cross-training the Electronics Design Engineer on testing duties is
+recommended over hiring additional staff.

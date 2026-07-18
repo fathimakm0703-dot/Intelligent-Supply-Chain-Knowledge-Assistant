@@ -1,0 +1,15 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Picking Standard Operating Procedure
+Document No: SOP-WH-03 | Effective Date: 01-Jul-2025
+Procedure Steps
+•
+Step 1: Picker receives a pick list sorted by bin location sequence for the Sales Order.
+•
+Step 2: Pick items using FIFO, verifying product ID against the pick list.
+•
+Step 3: Update the stock register to decrement system stock for each item picked.
+•
+Step 4: Stage picked items at the Packing Area for the corresponding Sales Order.
+•
+Step 5: Report short-picks or damaged items immediately to the Warehouse & Logistics Executive.

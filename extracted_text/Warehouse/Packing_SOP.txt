@@ -1,0 +1,16 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Packing Standard Operating Procedure
+Document No: SOP-WH-04 | Effective Date: 01-Jul-2025
+Procedure Steps
+•
+Step 1: Verify picked items against the Sales Order and generate a Packing List.
+•
+Step 2: Pack items using approved cartons, ensuring PCB-based items (IoT modules, smart switches) are
+cushioned against static discharge and impact.
+•
+Step 3: Affix the Packing List and shipping label showing Sales Order number, customer, and destination.
+•
+Step 4: Weigh and record final package weight for freight costing.
+•
+Step 5: Move packed order to Dispatch Staging.

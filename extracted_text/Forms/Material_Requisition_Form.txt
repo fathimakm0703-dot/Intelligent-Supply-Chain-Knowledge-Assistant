@@ -1,0 +1,15 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Material Requisition Form - MRF-0118
+Requested by: Anoop K. Nair, Production Supervisor | Work Order: WO-521
+Material
+Qty Requested
+Purpose
+Lithium-ion Battery Cell (Power Bank)
+150 pcs
+Work Order WO-521 production
+Charging/Boost Control PCB
+150 pcs
+Work Order WO-521 production
+Approval
+Approved by Sujith Kumar, Logistics & Warehouse Executive. Materials issued via GIN-6004.

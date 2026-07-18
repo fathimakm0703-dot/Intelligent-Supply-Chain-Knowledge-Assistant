@@ -1,0 +1,26 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Inventory Management Policy
+Document No: POL-INV-01 | Effective Date: 01-Jul-2025 | Version 1.1
+1. Purpose
+This policy establishes rules for stock control, replenishment, cycle counting and inventory valuation across
+VOLTORA's single production-unit-and-warehouse pair in Kochi, to minimize stockouts and excess inventory.
+2. Inventory Classification (ABC Analysis)
+Class A items (high value, e.g. Solar LED Street Lights, Mini UPS) are reviewed weekly.
+Class B items (Power Banks, Smart Switches, Wi-Fi Smart Plugs, IoT Sensor Modules) are reviewed bi-weekly.
+Class C items (LED Bulbs, LED Tube Lights, Mobile Chargers, USB Fast Chargers - high volume, low unit
+value) are reviewed monthly and ordered in bulk to reduce ordering frequency.
+3. Reorder Policy
+Each SKU is assigned a Reorder Level based on average monthly usage and supplier lead time. When
+on-hand stock falls at or below the reorder level, a Purchase Requisition or Production Order is triggered.
+4. Cycle Counting
+Class A items are cycle counted monthly, Class B items quarterly, and Class C items semi-annually.
+Discrepancies greater than 2% of counted quantity require an Inventory Adjustment Report and root-cause
+investigation.
+5. Slow-Moving & Dead Stock
+Items with no movement for 90 days are flagged as slow-moving. Items with no movement for 180 days are
+classified as dead stock and reviewed quarterly by the Procurement & Inventory Executive for write-off,
+discount sale or return-to-vendor action.
+6. Inventory Valuation
+Inventory is valued using the Weighted Average Cost (WAC) method, updated at each Goods Receipt Note
+(GRN) transaction.

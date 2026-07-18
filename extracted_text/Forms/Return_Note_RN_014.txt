@@ -1,0 +1,12 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Return Note - RN-014
+Supplier: KeralaLED Components | Related GRN: GRN-4012 | Date: 21-May-2026
+Material
+Qty Returned
+Reason
+High-Brightness LED Chips
+320 units
+Luminous output below rated specification (100-110 lm) - see CA
+Disposition
+Material returned to supplier for replacement. Replacement batch expected within revised lead time of 10 days.

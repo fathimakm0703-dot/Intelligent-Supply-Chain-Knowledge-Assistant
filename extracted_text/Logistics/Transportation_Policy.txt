@@ -1,0 +1,19 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Transportation Policy
+Document No: POL-LOG-01 | Effective Date: 01-Jul-2025
+Freight Mode Selection
+Order Weight / Destination
+Preferred Mode
+Within Kochi, up to 500 kg
+In-house delivery vehicle
+Within Kerala, 500 kg+
+Contracted mini/medium truck
+Other States
+Contracted third-party transporter
+On-Time Delivery Target
+VOLTORA targets a 93% On-Time-In-Full (OTIF) delivery rate, measured monthly and reported in the OTIF
+Report.
+Cost Control
+As an SME operating on a lower logistics budget, freight costs are tracked per route and reviewed monthly in
+the Freight Cost Report to identify consolidation opportunities and avoid part-load shipments wherever possible.

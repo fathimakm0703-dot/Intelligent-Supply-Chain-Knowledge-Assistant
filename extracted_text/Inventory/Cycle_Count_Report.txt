@@ -1,0 +1,27 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Cycle Count Report
+Warehouse: VOLTORA Warehouse (Edappally) | Count Date: 28-Jun-2026 | Counted by: Deepa Krishnan
+Product ID
+System Qty
+Counted Qty
+Variance
+Variance %
+VOL-LED-01
+637
+637
+2
+-0.5%
+VOL-PB-05
+87
+87
+-3
+-3.4%
+VOL-IOT-09
+33
+29
+0
+0.0%
+Findings
+1 SKU (VOL-PB-05) showed a variance exceeding the 2% threshold and has been escalated via an Inventory
+Adjustment Report for root-cause review.

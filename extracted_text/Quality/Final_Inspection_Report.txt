@@ -1,0 +1,26 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Final Inspection Report
+Batch Reference: WO-521 | Product: Power Banks | Inspector: Anjali Thomas
+Parameter
+Specification
+Result
+Status
+Output Voltage (V)
+5.0 +/- 0.25
+5.1
+Pass
+Charge Capacity (mAh)
+>= 9,500 (rated)
+9,680
+Pass
+Charging Cycle Test
+No fault after 3 cycles
+No fault observed
+Pass
+Visual Defects
+None
+None observed
+Pass
+Disposition
+Batch WO-521 accepted for finished-goods inventory. Transferred to VOLTORA Warehouse Bin B-01-02-03.

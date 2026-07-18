@@ -1,0 +1,21 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Logistics Standard Operating Procedure
+Document No: SOP-LOG-01 | Effective Date: 01-Jul-2025
+1. Purpose
+This SOP governs outbound transportation planning, vehicle scheduling and shipment tracking for deliveries
+from VOLTORA's Edappally warehouse to customers across Kerala and neighboring states.
+2. Route Planning
+Delivery routes are planned weekly based on the Delivery Schedule, consolidating orders by destination region
+to maximize vehicle fill rate and minimize freight cost per unit - important given VOLTORA's limited logistics
+budget.
+3. Vehicle Allocation
+Vehicles are allocated based on order volume/weight against VOLTORA's small in-house fleet of 1 delivery
+vehicle, per the Vehicle Details register. Third-party transporters are engaged for inter-state deliveries and
+routes exceeding in-house fleet capacity.
+4. Shipment Tracking
+All dispatched shipments are tracked using the Shipment Tracking Report, updated at each checkpoint
+(dispatch, in-transit, delivered) and shared with the Logistics & Warehouse Executive.
+5. Proof of Delivery
+Drivers must obtain a signed Delivery Challan from the customer as proof of delivery, which is filed against the
+corresponding Sales Order and Invoice.

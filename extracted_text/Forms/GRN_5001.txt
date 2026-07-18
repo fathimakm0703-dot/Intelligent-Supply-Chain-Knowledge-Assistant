@@ -1,0 +1,17 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Goods Receipt Note - GRN-5001
+PO Reference: PO-1001 | Supplier: KeralaLED Components | Warehouse: VOLTORA Warehouse
+Material
+PO Qty
+Received Qty
+Accepted Qty
+Rejected Qty
+High-Brightness LED Chips
+5,000
+5,000
+5,000
+0
+Inspection Result
+All items passed Incoming Inspection per SOP-QA-01. Received by Sujith Kumar, Logistics & Warehouse
+Executive.

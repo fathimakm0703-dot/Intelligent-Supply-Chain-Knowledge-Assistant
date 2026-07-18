@@ -1,0 +1,18 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Incoming Inspection Standard Operating Procedure
+Document No: SOP-QA-01 | Effective Date: 01-Jul-2025
+Procedure Steps
+•
+Step 1: Sample material per AQL Level II sampling plan (IS 2500 / ISO 2859-1), scaled to VOLTORA's
+smaller batch sizes.
+•
+Step 2: Verify component specifications (electrical ratings, dimensions) against the approved datasheet.
+•
+Step 3: Check for physical damage, ESD exposure or contamination.
+•
+Step 4: Verify supplier Certificate of Conformance and batch/lot traceability.
+•
+Step 5: Record results on the Final Inspection Report / Defect Report as applicable.
+•
+Step 6: Accept, reject or place material on hold in the Quarantine Area based on inspection outcome.

@@ -1,0 +1,19 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Corrective and Preventive Action (CAPA) Report
+CAPA Reference: CAPA-2026-002 | Related Defect: DEF-003 | Owner: Anjali Thomas
+Problem Statement
+Incoming high-brightness LED chips from KeralaLED Components (SUP-01) batch received under GRN-4012
+showed luminous output readings below the rated 100-110 lm specification, affecting 320 units.
+Root Cause
+Investigation identified a binning inconsistency at the supplier's chip-sorting stage following a recent
+production-lot changeover.
+Corrective Action
+Affected batch quarantined and returned to supplier via Return Note RN-014. Replacement batch requested
+with an additional pre-shipment luminous-output test certificate.
+Preventive Action
+Supplier required to submit a pre-shipment Certificate of Conformance including luminous-output test results for
+all future shipments. Incoming Inspection SOP updated to include a luminous-output spot-check for LED chip
+receipts.
+Status
+Closed - verified effective over next 3 shipments with zero luminous-output deviations.

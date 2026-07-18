@@ -1,0 +1,23 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Supplier Contract - SC-2025-04
+Between VOLTORA Manufacturing Pvt. Ltd. and PowerCell Battery Traders | Effective: 01-Jul-2025 | Term: 2
+years
+1. Scope of Supply
+PowerCell Battery Traders shall supply Lithium-ion Battery Cells to VOLTORA Manufacturing Pvt. Ltd. on an
+ongoing basis as per periodic Purchase Orders issued under this contract.
+2. Pricing
+Prices are fixed for the contract term subject to a maximum quarterly escalation of 3%, applicable only on
+documented component cost increases and subject to mutual written agreement. Given VOLTORA's SME
+scale, order volumes per PO are typically smaller and more frequent.
+3. Lead Time & Delivery
+Standard lead time is 12 calendar days from PO acceptance. Late delivery beyond 3 days without prior notice is
+subject to a penalty of 0.5% of order value per day, capped at 5%.
+4. Payment Terms
+Net 45 from the date of GRN acceptance.
+5. Quality Requirements
+Supplier shall maintain ISO 9001:2015 certification and provide a Certificate of Conformance with every
+shipment. Defect rate must not exceed 1% of quantity supplied.
+6. Termination
+Either party may terminate this agreement with 60 days written notice. VOLTORA may terminate immediately
+for repeated quality non-conformance or supply failure.

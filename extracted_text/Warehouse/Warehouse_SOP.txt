@@ -1,0 +1,35 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Warehouse Standard Operating Procedure
+Document No: SOP-WH-01 | Effective Date: 01-Jul-2025 | Version 1.0
+1. Purpose
+This SOP defines standard procedures for receiving, put-away, storage, picking, packing and dispatch
+operations at VOLTORA's single warehouse in Edappally, Kochi.
+2. Warehouse Zones
+Zone
+Purpose
+Receiving Dock
+Inbound goods inspection and staging
+Bulk Storage
+Pallet-level storage of high-volume SKUs (LED bulbs, tube lights, chargers)
+Pick Face
+Fast-moving small items for order picking
+Packing Area
+Order consolidation and packing
+Dispatch Dock
+Outbound staging and vehicle loading
+Quarantine Area
+Rejected or hold material pending disposition
+3. General Rules
+All movements must be recorded in the stock register within 30 minutes of physical completion.
+FIFO (First-In-First-Out) is followed for all SKUs unless otherwise specified.
+Only trained personnel may operate the warehouse's hand pallet trucks and packing equipment.
+4. Related SOPs
+•
+Receiving SOP
+•
+Picking SOP
+•
+Packing SOP
+•
+Dispatch SOP

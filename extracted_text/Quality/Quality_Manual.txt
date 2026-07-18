@@ -1,0 +1,28 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Quality Manual
+Document No: QM-01 | Effective Date: 01-Jul-2025 | Version 1.0
+1. Quality Policy
+VOLTORA Manufacturing Pvt. Ltd., a small and medium enterprise (SME), is committed to manufacturing
+standardized LED lighting, power electronics and IoT-enabled products that consistently meet customer and
+regulatory requirements through continuous improvement, defect prevention and supplier quality management -
+within the company's limited operating budget.
+2. Quality Management System
+The company maintains an ISO 9001:2015 certified Quality Management System covering incoming inspection,
+in-process control, final inspection and corrective/preventive action (CAPA) processes, administered by a single
+Quality Assurance Executive given the company's lean 12-person team.
+3. Incoming Quality Control
+All components (LED chips, PCBs, batteries, transformers, chips, solar panels, relays) are inspected per the
+Incoming Inspection SOP prior to acceptance into inventory.
+4. In-Process Quality Control
+Production work orders include mandatory quality checkpoints defined in the Routing Sheet, verified by the
+Production Supervisor at each stage.
+5. Final Inspection
+Finished goods undergo final inspection and functional testing per documented product specifications before
+release to finished-goods inventory.
+6. Non-Conformance & CAPA
+Non-conforming material or process is logged in the Defect Report. Defects affecting more than 1% of a batch
+trigger a mandatory CAPA Report.
+7. Supplier Quality
+Suppliers are evaluated per the Vendor Evaluation Report and Supplier Performance Report, with a minimum
+defect-rate requirement of 1% specified in Supplier Contracts.

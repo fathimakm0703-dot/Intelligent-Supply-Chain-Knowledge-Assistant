@@ -1,0 +1,48 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Lead Time Analysis Report
+Reporting Period: FY Jul-2025 to Jun-2026
+Supplier
+Contracted Lead Time (days)
+Avg Actual Lead Time (days)
+Variance (days)
+KeralaLED Components
+7
+6
+2
+SouthCircuit PCB Works
+9
+9
+-1
+PowerCell Battery Traders
+12
+14
+2
+Kerala Plastics & Moulding
+6
+7
+0
+Cochin Transformer Works
+10
+10
+2
+ChipTech Semiconductors
+15
+16
+0
+SolarTech Kerala
+14
+13
+0
+RelaySwitch Traders
+5
+6
+0
+WireConnect Kerala
+5
+4
+-1
+Apex Packaging Kochi
+4
+5
+0

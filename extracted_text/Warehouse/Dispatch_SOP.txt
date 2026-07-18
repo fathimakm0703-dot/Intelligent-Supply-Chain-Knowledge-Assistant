@@ -1,0 +1,15 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Dispatch Standard Operating Procedure
+Document No: SOP-WH-05 | Effective Date: 01-Jul-2025
+Procedure Steps
+•
+Step 1: Confirm vehicle arrival against the Delivery Schedule and verify driver/vehicle details.
+•
+Step 2: Load packages in reverse delivery-route sequence to ease multi-stop unloading.
+•
+Step 3: Generate a Delivery Challan and Invoice for each Sales Order being dispatched.
+•
+Step 4: Obtain driver signature confirming quantity loaded; update Shipment Tracking Report.
+•
+Step 5: Notify customer of dispatch with expected delivery date.

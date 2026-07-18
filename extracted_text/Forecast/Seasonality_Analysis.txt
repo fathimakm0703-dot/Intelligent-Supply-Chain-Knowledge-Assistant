@@ -1,0 +1,51 @@
+VOLTORA Manufacturing Pvt. Ltd. - Internal Document
+Page 1
+Seasonality Analysis Report
+Analysis Period: FY Jul-2025 to Jun-2026 | Prepared by: Arun Mathew, Sales & Marketing Executive
+Historical sales data shows a consistent seasonal pattern driven by Kerala's festival calendar - Onam
+(August-September), Christmas & New Year (December) and Vishu (April) all drive spikes in lighting and
+gifting-related electronics demand.
+Seasonal Index by Month
+Month
+Seasonal Index
+Note
+Jul-2025
+0.9
+Monsoon - steady baseline demand
+Aug-2025
+1.15
+Onam season - peak decorative lighting demand
+Sep-2025
+1.05
+Post-Onam - demand still elevated
+Oct-2025
+0.95
+Moderate - normal trading month
+Nov-2025
+1.0
+Steady - pre-Christmas dealer restocking begins
+Dec-2025
+1.2
+Christmas & New Year - peak lighting and gifting demand
+Jan-2026
+0.85
+Post-festival correction
+Feb-2026
+0.9
+Low season - steady baseline demand
+Mar-2026
+0.95
+Financial year-end dealer restocking
+Apr-2026
+1.05
+Vishu festival - decorative lighting demand rises
+May-2026
+0.95
+Summer - moderate demand
+Jun-2026
+0.9
+Monsoon onset - softer demand
+Recommendation
+Increase safety stock for LED Lighting products by 20% ahead of Onam (August) and Power Electronics /
+gifting-friendly items (Power Banks, Mini UPS) by 15% ahead of Christmas (December) - within VOLTORA's
+limited SME inventory budget.
